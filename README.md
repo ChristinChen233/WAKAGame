@@ -12,7 +12,7 @@ Avoid being killed (caught by) the ghosts
 Eat all Fruits and you will win!
 
 ## Version
-gradle 6.5
+gradle 6.5   
 support dependencies version is stated in dependencies in build.gradle
 
 ## Demo video
