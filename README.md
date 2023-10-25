@@ -1,19 +1,19 @@
 # WAKA Game
 Being a cute WAKA, try your best to collect more fruits!
 
-Finally it's your turn to be a smart WAKA, your mission is to eat all fruits and avoid the chase from 4 kinds of ghosts. Don't worry, you will have more than 1 lives! If you are really afraid of the ghost, eat the Soda(Super Fruit), you will have strong ability to kill the ghost!
+Finally it's your turn to be a smart WAKA, your mission is to eat all fruits and avoid being caught by 4 kinds of ghosts. Don't worry, you will have more than 1 lives! If you are really afraid of ghosts, eat the Soda(Super Fruit), and you will be capable to kill them!
 
 ## Manual
 `gradle run`
 to start the game.   
 Press w a s d to change the direction of WAKA   
 The big fruit is Soda   
-Avoid being killed (caught by) the ghosts   
+Avoid being killed (caught) by the ghosts   
 Eat all Fruits and you will win!
 
 ## Version
 gradle 6.5   
-support dependencies version is stated in dependencies in build.gradle
+The support versions of dependencies are stated in dependencies in build.gradle
 
 ## Demo video
 https://github.com/ChristinChen233/WAKAGame/assets/121276505/361c8849-40e3-43e6-af6d-36f1ec6dafd5
